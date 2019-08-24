@@ -5,7 +5,7 @@
 
 1. go to `https://circleci.com/add-projects/gh/<your username/org>` to add the project and click "start building". It will fail the first time. Have faith.
 
-1. go to `https://circleci.com/gh/<your username/org>/github-pages-orb-example/edit#checkout` and click "add user key".
+1. go to `https://circleci.com/gh/<your username/org>/github-pages-orb-example/edit#checkout` and click "Authorize with GitHub" in the Add User Key section.
 
 1. You can now edit the site source code and push commits to master to have your website tested and deployed to github pages automatically.
 
